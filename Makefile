@@ -13,6 +13,7 @@ all: dependencies
 	make -C splash2
 	make -C parsec
 	#changed at 2021-5-14
+	#弃用收费软件CPU2006
 	#make -C cpu2006
 	make -C npb
 	make -C local
